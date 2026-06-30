@@ -1,7 +1,7 @@
-# 🤖 AI Resume Screening System (Machine Learning + Streamlit)
+# 🤖 AI-Based Hiring_Prediction_System (Machine Learning + Streamlit)
 
 ## 📌 Project Overview
-This project is an **AI-powered Resume Screening System** that predicts whether a candidate should be **Hired or Rejected** based on their resume details such as skills, experience, education, certifications, job role, salary expectation, and project count.
+This project is an **AI-Based Hiring Prediction System** that predicts whether a candidate should be **Hired or Rejected** based on their resume details such as skills, experience, education, certifications, job role, salary expectation, and project count.
 
 It uses **Machine Learning (Random Forest)** and **Natural Language Processing (TF-IDF)** and is deployed using **Streamlit web interface**.
 
