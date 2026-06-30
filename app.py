@@ -8,7 +8,7 @@ tfidf = joblib.load("tfidf.pkl")
 edu_encoder = joblib.load("education_encoder.pkl")
 target_encoder = joblib.load("target_encoder.pkl")
 
-st.set_page_config(page_title="AI Resume Screening", layout="centered")
+st.set_page_config(page_title="AI-Based Hiring Prediction System", layout="centered")
 
 st.title("🤖 AI-Based Hiring Prediction System")
 st.write("Predict whether a candidate will be **Hire or Reject** based on resume data")
